@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mustafa31190454
+- 👋 Hi, I’m @Mustafa Radhi
 - 👀 I’m interested in data IQ
 - 🌱 I’m currently learning to enter the data
 - 💞️ I’m looking to collaborate on ...
